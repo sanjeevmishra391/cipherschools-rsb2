@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cipherschools-rsb2/static/css/main.9622c61f.css",
+    "main.js": "/cipherschools-rsb2/static/js/main.6794164f.js",
+    "index.html": "/cipherschools-rsb2/index.html",
+    "main.9622c61f.css.map": "/cipherschools-rsb2/static/css/main.9622c61f.css.map",
+    "main.6794164f.js.map": "/cipherschools-rsb2/static/js/main.6794164f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9622c61f.css",
+    "static/js/main.6794164f.js"
+  ]
+}
