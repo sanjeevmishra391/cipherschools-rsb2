@@ -1,0 +1,12 @@
+Deloy React app in gh-pages
+
+1. install gh-pages by running command
+    npm i gh-pages --save-dev
+
+2. in package.json add
+    a. "homepage" : "https://USERNAME.github.io/REPO_NAME
+    b. "predeploy" : "num run build"
+    c. "deploy" : "gh-pages -d build"
+
+3. run the command
+    npm run deploy
